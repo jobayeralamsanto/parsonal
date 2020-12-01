@@ -1,0 +1,24 @@
+
+.about{
+	padding: 100px 0px 60px;
+    height: 800px;
+    background-color: #000508;
+}
+
+
+.about h1{
+	font-size: 60px;
+    font-weight: bold;
+    color: rgb(240, 236, 241);
+
+}
+.about h4{
+	
+    font-weight: bold;
+    color: rgb(138, 73, 175);
+
+}
+
+.about p{
+    font-size: 20px
+}

@@ -1,0 +1,17 @@
+.resume{
+    padding: 100px 0px 60px;
+    height: 800px;
+    background-color: #000508;
+}
+ .card{
+    background-color:#4e6265;
+    height: 500px;
+ }
+ .card-body{
+    color:#f2f7fd;
+ }
+ .header{
+    text-align: center;
+    color: aquamarine;
+    font-size: 70px;
+ }
